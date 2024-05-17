@@ -1,0 +1,74 @@
+#heading{
+    width: 100;
+    background-color: darkturquoise;
+    height: 60px;
+}
+
+h1{
+    font-weight: 800;
+    font-family: verdana, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    color: black;
+    padding-top: 5px;
+}
+
+
+th{
+    font-size: 30px;
+    font-family: helvetica, sans-serif;
+    color: darkturquoise;
+    font-weight: 800;
+    height: 100px;
+}
+
+table{
+    
+    border-collapse: collapse;
+    border-style: solid;
+    border-width: thick;
+    border-color: black;
+    background-color: lightgray;
+}
+
+td{
+    text-align: center;
+    font-family: sans-serif;
+    color: black;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+tr{
+    height: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
